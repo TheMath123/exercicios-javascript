@@ -32,3 +32,8 @@ Dado a sequência de Fibonacci, onde se inicia por 0 e 1 e o próximo valor semp
 
 a) Esse número pode ser informado através de qualquer entrada de sua preferência ou pode ser previamente definido no código;
 b) É necessário guardar os números da sequência que estão sendo calculados.
+
+---
+##### 4. Palíndromo :egg:
+Crie um programa para ler um número ou palavra e dizer se é um palíndromo.
+Exemplos de uma palíndromo: 'OVO', 'ANA', '12321', '525', '22'
