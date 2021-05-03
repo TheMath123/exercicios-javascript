@@ -36,4 +36,4 @@ b) É necessário guardar os números da sequência que estão sendo calculados.
 ---
 ##### 4. Palíndromo :egg:
 Crie um programa para ler um número ou palavra e dizer se é um palíndromo.
-Exemplos de uma palíndromo: 'OVO', 'ANA', '12321', '525', '22'
+- Exemplos de uma palíndromo: 'OVO', 'ANA', '12321', '525', '22'
